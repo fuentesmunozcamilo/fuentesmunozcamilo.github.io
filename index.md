@@ -12,7 +12,7 @@ Este proyecto fue desarrollado para analizar y destacar los elementos esenciales
 
 ## Índice de Contenidos
 
-1. [Colaboraciones con Alfred Hitchcock e influencia posterior (Psicosis, Vértigo, etc)](Colaboraciones%20con%20Alfred%20Hitchcock%20e%20influencia%20posterior%20(Psic%C3%B3sis,%20V%C3%A9rtigo,%20etc).md)
+1. [Colaboraciones con Alfred Hitchcock e influencia posterior (Psicosis, Vértigo, etc)](https://github.com/fuentesmunozcamilo/fuentesmunozcamilo.github.io/blob/main/Colaboraciones%20con%20Alfred%20Hitchcock%20e%20influencia%20posterior%20(Psicósis%2C%20Vértigo%2C%20etc).md)
 2. [Colaboraciones con Alfred Hitchcock](Colaboraciones%20con%20Alfred%20Hitchcock.md)
 3. [Declive de la música sinfónica en los años 60 y cómo la afronta Herrmann](Declive%20de%20la%20m%C3%BAsica%20sinf%C3%B3nica%20en%20los%20a%C3%B1os%2060%20y%20c%C3%B3mo%20la%20afronta%20Herrman.md)
 4. [Diferencias entre el Estilo de Bernard Herrmann](Diferencias%20entre%20el%20Estilo%20de%20Bernard.md)
