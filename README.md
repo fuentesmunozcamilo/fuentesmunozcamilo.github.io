@@ -1,4 +1,4 @@
-#  Música en el Cine: La Influencia de Bernard Herrmann 🎬 🎶
+#  🎬 Música en el Cine: La Influencia de Bernard Herrmann  🎶
 
 ## Descripción del Proyecto
 
@@ -43,7 +43,7 @@ Este proyecto no habría sido posible sin el esfuerzo, la dedicación y la creat
 
 ---
 
-## 📩 Contacto
+## Contacto
 
 Si deseas saber más sobre este proyecto, puedes contactarnos a través de:  
 📧 **fuentesmunozcamilo@gmail.com**
