@@ -1,5 +1,11 @@
 # Estudios sobre la música de cine y Bernard Herrmann
 
+## Introducción
+
+Esta página web está dedicada a explorar la vida y obra de Bernard Herrmann, uno de los compositores más influyentes en la historia del cine. Su música no solo definió el suspense en las películas de Alfred Hitchcock, sino que también marcó un antes y un después en cómo las bandas sonoras realzan la narrativa cinematográfica.
+
+Aquí encontrarás un recorrido por sus colaboraciones más icónicas, su estilo único y su impacto en otros compositores. También profundizamos en cómo adoptó nuevas técnicas de grabación y experimentó con la música electrónica, transformando el panorama de la música en el cine.
+
 ## Estudios y Colaboraciones
 
 - [Colaboraciones con Alfred Hitchcock e influencia posterior](https://fuentesmunozcamilo.github.io/Colaboraciones%20con%20Alfred%20Hitchcock%20e%20influencia%20posterior%20(Psicósis,%20Vértigo,%20etc).html)
@@ -23,6 +29,3 @@
 - [Temas de la música de Herrmann en su trabajo](https://fuentesmunozcamilo.github.io/Temas%20de%20la%20música%20de%20Herrmann%20en%20su%20trabajo.html)
 - [Trabajo en la película Psicósis y su influencia en el cine](https://fuentesmunozcamilo.github.io/Trabajo%20en%20la%20película%20Psicósis%20y%20su%20influencia%20en%20el%20cine.html)
 
-## Créditos
-
-© 2024 Camilo Fuentes
