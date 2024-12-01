@@ -24,11 +24,11 @@ El sitio web tiene las siguientes secciones:
 
 Este proyecto nos permitió mejorar en:
 
-- **Trabajo en equipo bajo la metodología Scrum, aprendiendo a colaborar y asumir roles específicos dentro del desarrollo.
-- **Gestión del tiempo y priorización de tareas en un entorno colaborativo, adaptándonos a los plazos establecidos.
-- **Planificación ágil a través de sprints y reuniones diarias, asegurando el progreso continuo y el cumplimiento de objetivos.
-- **Uso de GitHub como herramienta para el control de versiones y la colaboración efectiva, facilitando la integración de cambios en el proyecto.
-- **Documentación clara con Markdown, lo que nos permitió crear archivos README bien estructurados y profesionales.
+- **Trabajo en equipo bajo la metodología Scrum** aprendiendo a colaborar y asumir roles específicos dentro del desarrollo.
+- **Gestión del tiempo y priorización de tareas** en un entorno colaborativo, adaptándonos a los plazos establecidos.
+- **Planificación ágil a través de sprints y reuniones diarias** asegurando el progreso continuo y el cumplimiento de objetivos.
+- **Uso de GitHub como herramienta para el control de versiones** y la colaboración efectiva, facilitando la integración de cambios en el proyecto.
+- **Documentación clara con Markdown** lo que nos permitió crear archivos README bien estructurados y profesionales.
 
 
 ## Agradecimientos
